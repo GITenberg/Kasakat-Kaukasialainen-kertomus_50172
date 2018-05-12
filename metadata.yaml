@@ -1,9 +1,13 @@
 _repo: Kasakat-Kaukasialainen-kertomus_50172
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kalima, Jalo
     gutenberg_agent_id: '45733'
     url: http://www.gutenberg.org/2009/agents/45733
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50172#Kasakat-Kaukasialainen-kertomus
 gutenberg_issued: '2015-10-10'
 gutenberg_type: Text
 identifiers:
